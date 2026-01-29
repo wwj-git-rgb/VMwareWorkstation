@@ -10,6 +10,7 @@
 # 目录：
 * [链接说明](#链接说明)
 * [官网获取方法](#官网获取方法)
+* [VMwareWorkstation 25H2](#vmwareworkstation-25H2)
 * [VMwareWorkstation 17](#vmwareworkstation-17)
 * [VMwareWorkstation 16](#vmwareworkstation-16)
 * [VMwareWorkstation 15](#vmwareworkstation-15)
@@ -31,7 +32,21 @@
 
 <hr>
 
+# VMwareWorkstation 25H2
+* 25H2
+  * https://github.com/201853910/VMwareWorkstation/releases/download/25H2/VMware-Workstation-Full-25H2-24995812.exe
+  * 
+  * https://github.com/201853910/VMwareWorkstation/releases/download/25H2/VMware-Workstation-Full-25H2-24995812.x86_64.bundle
+  * 
+
+<hr>
+
 # VMwareWorkstation 17
+* 17.6.4
+  * https://github.com/201853910/VMwareWorkstation/releases/download/17.0/VMware-workstation-full-17.6.4-24832109.exe
+  * 
+  * https://github.com/201853910/VMwareWorkstation/releases/download/17.0/VMware-Workstation-Full-17.6.4-24832109.x86_64.bundle
+  * 
 * 17.6.3
   * https://github.com/201853910/VMwareWorkstation/releases/download/17.0/VMware-workstation-full-17.6.3-24583834.exe
   * 
